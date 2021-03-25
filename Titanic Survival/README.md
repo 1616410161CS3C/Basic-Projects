@@ -39,3 +39,9 @@ The training set should be used to build your machine learning models. The test 
 The dataset is collected from <a href="https://www.kaggle.com/c/titanic/data">Kaggle</a>
 
 
+## Structure of Project
+1 Import Libraries and Load Dataset.
+2 Inspect and Visualize Data.
+3 Data Pre-Processing.
+4 Spliting Data into Dependent Variable and Independent Variable.
+5 Training the Model using Various Algorithms.
