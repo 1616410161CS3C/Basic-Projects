@@ -15,6 +15,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 The data has been split into two groups:
 * training set (train.csv)
 * test set (test.csv)
+##### Training set includes 819 records and 418 records are in Test set and 12 attributes.
 
 The training set should be used to build your machine learning models. The test set should be used to see how well your model performs on unseen data.
 #### Variable Note
