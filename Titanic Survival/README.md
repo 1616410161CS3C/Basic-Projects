@@ -40,8 +40,10 @@ The dataset is collected from <a href="https://www.kaggle.com/c/titanic/data">Ka
 
 
 ## Structure of Project
-1. Import Libraries and Load Dataset.
-2. Inspect and Visualize Data.
-3. Data Pre-Processing.
-4. Spliting Data into Dependent Variable and Independent Variable.
-5. Training the Model using Various Algorithms.
+1. ### Import Libraries and Load Dataset.
+2. ### Inspect and Visualize Data.
+3. ### Data Pre-Processing.
+4. ### Spliting Data into Dependent Variable and Independent Variable.
+5. ### Training the Model using Various Algorithms.
+6. ### Display Mean Square Error(MSE) and Accuracy Score
+7. ### Prediction on Test Data
