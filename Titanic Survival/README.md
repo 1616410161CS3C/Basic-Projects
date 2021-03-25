@@ -34,3 +34,8 @@ The training set should be used to build your machine learning models. The test 
   * Parent = mother, father
   * Child = daughter, son, stepdaughter, stepson
   * Some children travelled only with a nanny, therefore parch=0 for them.
+
+## Acknoweldgment
+The dataset is collected from <a href="https://www.kaggle.com/c/titanic/data">Kaggle</a>
+
+
