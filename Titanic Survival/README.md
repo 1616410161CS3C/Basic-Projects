@@ -40,34 +40,34 @@ The dataset is collected from <a href="https://www.kaggle.com/c/titanic/data">Ka
 
 
 ## Structure of Project
-1. #### Import Libraries and Load Dataset.        
-        a. Import required libraries and helper function.
-        b. Load data set using Pandas.
+- *Step1:* Import Libraries and Load Dataset.        
+   - Import required libraries and helper function.
+   - Load data set using Pandas.
 
-2. #### Inspect and Visualize Data.
-        a. Explore Dataframe.
-        b. Check the Null values.
-        c. Get *Statistical* Overview.
-        d. Visualizing data using *SWEETVIZ*(open source library file for python to visualize target column having only binary value *i.e 0's and 1's).
+- *Step2:* Inspect and Visualize Data.
+   - Explore Dataframe.
+   - Check the Null values.
+   - Get *Statistical* Overview.
+   - Visualizing data using *SWEETVIZ*(open source library file for python to visualize target column having only binary value *i.e 0's and 1's).
 
-3. #### Data Pre-Processing.
-        a. Handling Missing values.
-        b. Droping irrelevant Column.
-        c. Seperating Categorical and Neumerical Values.
-        d. Converting categorical value into neumerical
-        e. Feature Engineering
+- *Step3:* Data Pre-Processing.
+   - Handling Missing values.
+   - Droping irrelevant Column.
+   - Seperating Categorical and Neumerical Values.
+   - Converting categorical value into neumerical
+   - Feature Engineering
 
-4. #### Spliting Data into Dependent Variable and Independent Variable.
-        a. Then Spliting the data into Training and Testing Set.
+- *Step4:* Spliting Data into Dependent Variable and Independent Variable.
+   - Then Spliting the data into Training and Testing Set.
 
-5. #### Training the Model using Various Algorithms.
-        a. Logistic Regression
-        b. Linear Regression
-        c. Dicision Tree
+- *Step5:* Training the Model using Various Algorithms.
+   - Logistic Regression
+   - Linear Regression (Not Implemented Yet)
+   - Dicision Tree (Not Implemented Yet)
 
-6. #### Display Mean Square Error(MSE) and Accuracy Score
+- *Step6:* Display Mean Square Error(MSE) and Accuracy Score
 
-7. #### Prediction on Test Data
+- *Step7:* Prediction on Test Data
 
 ## Description
 
