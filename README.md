@@ -19,6 +19,9 @@ Data Analysis, Data Visualization, and Machine Learning:
 * **Student Score Prediction:** Predicting the percentage of student on based of hours of study.
     * **Algorithm:** Logistic Regression
 
+* **Optimum Cluster Prediction:** Find the optimum number of clusters and repreent visually.
+    * **Algorithm:** K-Means Clustering 
+
 
   
 
