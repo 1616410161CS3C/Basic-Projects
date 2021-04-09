@@ -5,7 +5,7 @@ Find the optimum number of clusters and visualize it.
 Use machine learning to find optimal number of clusters then visualize the predictions
 
 ## About Dataset
-***Dataset have 150 rows and 5 columns.
+***Dataset have 150 rows and 5 columns.***
 
 We'll use the data to find optimal number of clusters and the plot the clusters for the same dataset. 
 #### Variable Note
