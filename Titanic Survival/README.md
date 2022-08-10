@@ -62,9 +62,7 @@ The dataset is collected from <a href="https://www.kaggle.com/c/titanic/data">Ka
 
 - *Step5:* Training the Model using Various Algorithms.
    - Logistic Regression
-   - Linear Regression (Not Implemented Yet)
-   - Dicision Tree (Not Implemented Yet)
-
+   
 - *Step6:* Display Mean Square Error(MSE) and Accuracy Score
 
 - *Step7:* Prediction on Test Data
